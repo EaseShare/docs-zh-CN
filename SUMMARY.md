@@ -6,7 +6,13 @@
 
 ## 指南
 
-* [指南1](zhi-nan/zhi-nan-1.md)
+* [创建钱包](zhi-nan/chuang-jian-qian-bao.md)
+* [获取代币](zhi-nan/huo-qu-dai-bi.md)
+* [连接钱包](zhi-nan/lian-jie-qian-bao.md)
+* [发布作品](zhi-nan/fa-bu-zuo-pin.md)
+* [分享作品](zhi-nan/fen-xiang-zuo-pin.md)
+* [下载作品](zhi-nan/xia-zai-zuo-pin.md)
+* [购买作品](zhi-nan/gou-mai-zuo-pin.md)
 
 ## 附录
 
