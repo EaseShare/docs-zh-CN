@@ -16,4 +16,4 @@
 
 ## 附录
 
-* [关于我们](fu-lu/guan-yu-wo-men.md)
+* [白皮书](fu-lu/bai-pi-shu.md)
